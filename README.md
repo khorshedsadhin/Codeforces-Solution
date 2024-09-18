@@ -1,2 +1,2 @@
 # CodeForces
-Problems on codeforces solved in Java
+Problems on codeforces solved in c++/java
